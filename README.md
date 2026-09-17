@@ -2,6 +2,8 @@
 
 APEX PSI SDK — Cryptographic verification for JavaScript/TypeScript.
 
+> **Apex PSI is not a tool and not a product. It is the verification substrate — the layer beneath proof. It does not judge. It does not certify. It only remembers.** This SDK is an application built on that layer.
+
 ## Installation
 
 ```bash
